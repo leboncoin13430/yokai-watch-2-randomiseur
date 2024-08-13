@@ -1,0 +1,387 @@
+001	Pandicon	Pandle	Rank E icon	Brave Tribe	Fire icon	Blasters fighter	Rice Balls
+002	Undicon	Undy	Rank B icon	Brave Tribe	Fire icon	Blasters fighter	Rice Balls
+003	Tanbicon	Tanbo	Rank B icon	Brave Tribe	Earth icon	Blasters fighter	Rice Balls
+004	Cuttaicon	Cutta-nah	Rank E icon	Brave Tribe	Wind icon	Blasters fighter	Juice
+005	Cuttanahicon	Cutta-nah-nah	Rank B icon	Brave Tribe	Wind icon	Blasters fighter	Juice
+006	Slackaicon	Slacka-slash	Rank B icon	Brave Tribe	Ice icon	Blasters fighter	Juice
+007	BrusIcon	Brushido	Rank E icon	Brave Tribe	Ice icon	Blasters healer	Sweets
+008	WashoIcon	Washogun	Rank B icon	Brave Tribe	Ice icon	Blasters healer	Sweets
+009	LieIcon	Lie-in	Rank E icon	Brave Tribe	Ice icon	Blasters fighter	Chinese Food
+010	LieHeIcon	Lie-in Heart	Rank A icon	Brave Tribe	Ice icon	Blasters fighter	Chinese Food
+011	HissfIcon	Hissfit	Rank E icon	Brave Tribe	Fire icon	Blasters fighter	Meat
+012	Zerbericon	Zerberker	Rank A icon	Brave Tribe	Fire icon	Blasters fighter	Meat
+013	Snarticon	Snartle	Rank S icon	Brave Tribe	Ice icon	Blasters fighter	Meat
+014	Mochicon	Mochismo	Rank D icon	Brave Tribe	Earth icon	Blasters tank	Rice Balls
+015	Minoicon	Minochi	Rank D icon	Brave Tribe	Fire icon	Blasters tank	Rice Balls
+016	TubblIcon	Tublappa	Rank D icon	Brave Tribe	Lightning icon	Blasters fighter	Oden
+017	SliceIcon	Slicenrice	Rank D icon	Brave Tribe	Restoration icon	Blasters fighter	Rice Balls
+018	FlamurIcon	Flamurice	Rank A icon	Brave Tribe	Fire icon	Blasters fighter	Rice Balls
+019	Helmsicon	Helmsman	Rank D icon	Brave Tribe	Lightning icon	Blasters tank	Vegetables
+020	Reuknicon	Reuknight	Rank A icon	Brave Tribe	Lightning icon	Blasters tank	Vegetables
+021	Corptaicon	Corptain	Rank S icon	Brave Tribe	Drain icon	Blasters tank	Vegetables
+022	MudmIcon	Mudmunch	Rank B icon	Brave Tribe	Earth icon	Blasters tank	Oden
+023	Sgt.Icon	Sgt. Burly	Rank B icon	Brave Tribe	Lightning icon	Blasters ranger	Hamburgers
+024	Blazicon	Blazion	Rank B icon	Brave Tribe	Fire icon	Blasters ranger	Meat
+025	Quakicon	Quaken	Rank B icon	Brave Tribe	Earth icon	Blasters ranger	Meat
+026	Siroicon	Siro	Rank A icon	Brave Tribe	Lightning icon	Blasters ranger	Meat
+027	Chansicon	Chansin	Rank B icon	Brave Tribe	Fire icon	Blasters fighter	Seafood
+028	Sheeicon	Sheen	Rank A icon	Brave Tribe	Wind icon	Blasters fighter	Seafood
+029	Sneeicon	Snee	Rank A icon	Brave Tribe	Drain icon	Blasters fighter	Seafood
+030	Gleaicon	Gleam	Rank S icon	Brave Tribe	Lightning icon	Blasters fighter	Seafood
+031	Benkeicon	Benkei	Rank B icon	Brave Tribe	Ice icon	Blasters tank	Chinese Food
+032	B3icon	B3-NK1	Rank B icon	Brave Tribe	Lightning icon	Blasters tank	Chinese Food
+033	Susyamicon	Sushiyama	Rank B icon	Brave Tribe	Ice icon	Blasters fighter	Soba Noodles
+034	Kapunkicon	Kapunki	Rank A icon	Brave Tribe	Fire icon	Blasters fighter	Soba Noodles
+035	Beetlicon	Beetler	Rank B icon	Brave Tribe	Earth icon	Blasters fighter	Vegetables
+036	Beeticon	Beetall	Rank S icon	Brave Tribe	Ice icon	Blasters fighter	Vegetables
+037	Crunchicon	Cruncha	Rank S icon	Brave Tribe	Lightning icon	Blasters fighter	Vegetables
+038	DemunIcon	Demuncher	Rank S icon	Brave Tribe	Earth icon	Blasters fighter	Meat
+039	DevouIcon	Devourer	Rank S icon	Brave Tribe	Drain icon	Blasters fighter	Sweets
+040	BrokenIcon	Brokenbrella	Rank E icon	Mysterious mini icon	Wind icon	Blasters fighter	Snacks
+041	PittaIcon	Pittapatt	Rank E icon	Mysterious mini icon	Earth icon	Blasters fighter	Snacks
+042	Snotsicon	Snotsolong	Rank E icon	Mysterious mini icon	Water icon	Blasters ranger	Seafood
+043	Duchicon	Duchoo	Rank D icon	Mysterious mini icon	Ice icon	Blasters ranger	Seafood
+044	Dwanicon	D'wanna	Rank E icon	Mysterious mini icon	Restoration icon	Blasters healer	Hamburgers
+045	Nmoricon	N'more	Rank B icon	Mysterious mini icon	Restoration icon	Blasters healer	Hamburgers
+046	Qwiticon	Q'wit	Rank B icon	Mysterious mini icon	Earth icon	Blasters fighter	Hamburgers
+047	Wazzicon	Wazzat	Rank E icon	Mysterious mini icon	Wind icon	Blasters ranger	Candy
+048	HouzIcon	Houzzat	Rank B icon	Mysterious mini icon	Wind icon	Blasters fighter	Candy
+049	Dummicon	Dummkap	Rank E icon	Mysterious mini icon	Lightning icon	Blasters ranger	Candy
+050	FaysIcon	FaysoffBS	Rank D icon	Mysterious mini icon	Water icon	Blasters fighter	Oden
+051	Lafaicon	Lafalotta	Rank D icon	Mysterious mini icon	Drain icon	Blasters healer	Hamburgers
+052	Blipicon	Blips	Rank B icon	Mysterious mini icon	Drain icon	Blasters healer	Hamburgers
+053	Tatttellicon	Tattletell	Rank D icon	Mysterious mini icon	Restoration icon	Blasters healer	Ramen
+054	Tattcasticon	Tattlecast	Rank B icon	Mysterious mini icon	Restoration icon	Blasters healer	Ramen
+055	Skranicon	Skranny	Rank B icon	Mysterious mini icon	Restoration icon	Blasters healer	Ramen
+056	Cupisicon	Cupistol	Rank D icon	Mysterious mini icon	Restoration icon	Blasters healer	Sweets
+057	Casnuicon	Casanuva	Rank A icon	Mysterious mini icon	Restoration icon	Blasters healer	Sweets
+058	Casnoicon	Casanono	Rank A icon	Mysterious mini icon	Fire icon	Blasters fighter	Sweets
+059	Sosoricon	So-Sorree	Rank D icon	Mysterious mini icon	Lightning icon	Blasters ranger	Curry
+060	Bowmicon	Bowminos	Rank A icon	Mysterious mini icon	Earth icon	Blasters ranger	Curry
+061	SmoglIcon	Smogling	Rank D icon	Mysterious mini icon	Wind icon	Blasters fighter	Sweets
+062	SmogmIcon	Smogmella	Rank A icon	Mysterious mini icon	Wind icon	Blasters fighter	Sweets
+063	Signibicon	Signibble	Rank D icon	Mysterious mini icon	Lightning icon	Blasters fighter	Snacks
+064	Signiticon	Signiton	Rank A icon	Mysterious mini icon	Lightning icon	Blasters fighter	Oden
+065	Statikinicon	Statiking	Rank S icon	Mysterious mini icon	Lightning icon	Blasters fighter	Oden
+066	MasOdeIcon	Master Oden	Rank A icon	Mysterious mini icon	Lightning icon	Blasters healer	Oden
+067	FailIcon	FailianBS	Rank B icon	Mysterious mini icon	Ice icon	Blasters fighter	Sushi
+068	Apelicon	Apelican	Rank B icon	Mysterious mini icon	Wind icon	Blasters fighter	Hamburgers
+069	Mirapicon	Mirapo	Rank B icon	Mysterious mini icon	Drain icon	Blasters tank	Chinese Food
+070	MiradIcon	Miradox	Rank A icon	Mysterious mini icon	Drain icon	Blasters tank	Chinese Food
+071	Mirclicon	Mircle	Rank A icon	Mysterious mini icon	Drain icon	Blasters tank	Chinese Food
+072	Illicon	Illoo	Rank B icon	Mysterious mini icon	Water icon	Blasters fighter	Bread
+073	Ellicon	Elloo	Rank B icon	Mysterious mini icon	Ice icon	Blasters fighter	Bread
+074	Allicon	Alloo	Rank B icon	Mysterious mini icon	Lightning icon	Blasters fighter	Bread
+075	Espicon	Espy	Rank B icon	Mysterious mini icon	Earth icon	Blasters fighter	Vegetables
+076	Infoicon	Infour	Rank B icon	Mysterious mini icon	Drain icon	Blasters fighter	Vegetables
+077	VerGoIcon	Verygoodsir	Rank B icon	Mysterious mini icon	Restoration icon	Blasters healer	Soba Noodles
+078	Tengicon	Tengu	Rank S icon	Mysterious mini icon	Wind icon	Blasters fighter	Candy
+079	Flengicon	Flengu	Rank S icon	Mysterious mini icon	Fire icon	Blasters fighter	Candy
+080	Kyubicon	KyubiFS	Rank S icon	Mysterious mini icon	Fire icon	Blasters fighter	Oden
+081	Frostaicon	Frostail	Rank S icon	Mysterious mini icon	Ice icon	Blasters fighter	Oden
+082	ChymIcon	Chymera	Rank S icon	Mysterious mini icon	Lightning icon	Blasters fighter	Chinese Food
+083	KingmeIcon	Kingmera	Rank S icon	Mysterious mini icon	Lightning icon	Blasters fighter	Chinese Food
+084	TerrpottIcon	Terrorpotta	Rank E icon	Tough Tribe	Earth icon	Blasters ranger	Snacks
+085	Dullicon	Dulluma	Rank E icon	Tough Tribe	Earth icon	Blasters tank	Curry
+086	Daruicon	Darumacho	Rank B icon	Tough Tribe	Earth icon	Blasters tank	Curry
+087	Goruicon	Goruma	Rank B icon	Tough Tribe	Wind icon	Blasters tank	Curry
+088	WotgotIcon	WotchagotFS	Rank E icon	Tough Tribe	Ice icon	Blasters tank	Chinese Food
+089	PrishrIcon	Pride ShrimpFS	Rank B icon	Tough Tribe	Restoration icon	Blasters tank	Seafood
+090	NogoIcon	No-Go KartBS	Rank E icon	Tough Tribe	Earth icon	Blasters tank	Rice Balls
+091	MistanIcon	MistankBS	Rank B icon	Tough Tribe	Earth icon	Blasters tank	Rice Balls
+092	Nowaicon	Noway	Rank E icon	Tough Tribe	Earth icon	Blasters tank	Ramen
+093	Impaicon	Impass	Rank A icon	Tough Tribe	Earth icon	Blasters tank	Ramen
+094	Walldicon	Walldin	Rank A icon	Tough Tribe	Earth icon	Blasters tank	Ramen
+095	Roughricon	Roughraff	Rank E icon	Tough Tribe	Earth icon	Blasters fighter	Ramen
+096	Baduicon	Badude	Rank B icon	Tough Tribe	Earth icon	Blasters fighter	Ramen
+097	Bruficon	Bruff	Rank A icon	Tough Tribe	Earth icon	Blasters tank	Ramen
+098	Armsicon	Armsman	Rank D icon	Tough Tribe	Ice icon	Blasters tank	Vegetables
+099	MikiIcon	Mimikin	Rank D icon	Tough Tribe	Ice icon	Blasters tank	Candy
+100	Blowkicon	Blowkade	Rank D icon	Tough Tribe	Water icon	Blasters tank	Milk
+101	Ledballicon	Ledballoon	Rank C icon	Tough Tribe	Water icon	Blasters tank	Milk
+102	Fidgeicon	Fidgephant	Rank D icon	Tough Tribe	Water icon	Blasters tank	Rice Balls
+103	Toupicon	Touphant	Rank C icon	Tough Tribe	Water icon	Blasters tank	Rice Balls
+104	EnduIcon	Enduriphant	Rank A icon	Tough Tribe	Water icon	Blasters tank	Rice Balls
+105	ZappaIcon	ZapparyFS	Rank D icon	Tough Tribe	Lightning icon	Blasters fighter	Chinese Food
+106	FrazzIcon	FrazzelFS	Rank A icon	Tough Tribe	Lightning icon	Blasters fighter	Chinese Food
+107	SweltoIcon	Swelton	Rank C icon	Tough Tribe	Fire icon	Blasters tank	Curry
+108	Madmounicon	Mad Mountain	Rank C icon	Tough Tribe	Ice icon	Blasters tank	Sushi
+109	Lavloricon	Lava Lord	Rank B icon	Tough Tribe	Lightning icon	Blasters tank	Sushi
+110	Castiiiicon	Castelius III	Rank C icon	Tough Tribe	Earth icon	Blasters ranger	Milk
+111	Castiiicon	Castelius II	Rank B icon	Tough Tribe	Ice icon	Blasters tank	Milk
+112	Castiicon	Castelius I	Rank A icon	Tough Tribe	Lightning icon	Blasters ranger	Milk
+113	Castmaxicon	Castelius Max	Rank S icon	Tough Tribe	Wind icon	Blasters tank	Milk
+114	Rhinogicon	Rhinoggin	Rank B icon	Tough Tribe	Earth icon	Blasters tank	Vegetables
+115	Rhinoricon	Rhinormous	Rank S icon	Tough Tribe	Earth icon	Blasters tank	Vegetables
+116	Hornaicon	Hornaplenty	Rank S icon	Tough Tribe	Earth icon	Blasters tank	Vegetables
+117	Robonyicon	Robonyan	Rank A icon	Tough Tribe	Ice icon	Blasters tank	Chocobars
+118	Goldenyicon	Goldenyan	Rank S icon	Tough Tribe	Lightning icon	Blasters tank	Chocobars
+119	Dromicon	Dromp	Rank A icon	Tough Tribe	Earth icon	Blasters tank	Vegetables
+120	Swosicon	Swosh	Rank S icon	Tough Tribe	Water icon	Blasters tank	Vegetables
+121	ToadDuIcon	Toadal DudeFS	Rank S icon	Tough Tribe	Water icon	Blasters tank	Soba Noodles
+122	UbeGeeIcon	Uber Geeko	Rank S icon	Tough Tribe	Fire icon	Blasters ranger	Soba Noodles
+123	LeggIcon	Leggly	Rank E icon	Charming Tribe	Restoration icon	Blasters healer	Sweets
+124	Dazzaicon	Dazzabel	Rank E icon	Charming Tribe	Fire icon	Blasters healer	Sweets
+125	Ratteicon	Rattelle	Rank C icon	Charming Tribe	Fire icon	Blasters healer	Sweets
+126	Skelebicon	Skelebella	Rank B icon	Charming Tribe	Water icon	Blasters healer	Sweets
+127	Cadinicon	Cadin	Rank E icon	Charming Tribe	Wind icon	Blasters ranger	Juice
+128	Cadabicon	Cadable	Rank C icon	Charming Tribe	Wind icon	Blasters ranger	Juice
+129	Singcaicon	Singcada	Rank B icon	Charming Tribe	Ice icon	Blasters ranger	Juice
+130	Pupsicon	Pupsicle	Rank E icon	Charming Tribe	Ice icon	Blasters fighter	Ramen
+131	Chilhuicon	Chilhuahua	Rank A icon	Charming Tribe	Ice icon	Blasters fighter	Ramen
+132	Swelteicon	Swelterrier	Rank S icon	Charming Tribe	Fire icon	Blasters fighter	Ramen
+133	JumbIcon	Jumbelina	Rank D icon	Charming Tribe	Ice icon	Blasters ranger	Sweets
+134	BoyclIcon	BoyclopsFS	Rank D icon	Charming Tribe	Ice icon	Blasters fighter	Oden
+135	Jibanicon	Jibanyan	Rank D icon	Charming Tribe	Fire icon	Blasters fighter	Chocobars
+136	Thornicon	Thornyan	Rank B icon	Charming Tribe	Wind icon	Blasters ranger	Chocobars
+137	Baddicon	Baddinyan	Rank B icon	Charming Tribe	Fire icon	Blasters fighter	Chocobars
+138	Buchicon	Buchinyan	Rank C icon	Charming Tribe	Lightning icon	Blasters ranger	Chocobars
+139	Walkaicon	Walkappa	Rank D icon	Charming Tribe	Water icon	Blasters fighter	Sushi
+140	Appakicon	Appak	Rank A icon	Charming Tribe	Water icon	Blasters fighter	Sushi
+141	Supyicon	Supyo	Rank A icon	Charming Tribe	Water icon	Blasters fighter	Sushi
+142	Komsanicon YW2	Komasan	Rank D icon	Charming Tribe	Fire icon	Blasters fighter	Milk
+143	Komanicon YW2	Komane	Rank A icon	Charming Tribe	Fire icon	Blasters fighter	Milk
+144	Komajicon	Komajiro	Rank D icon	Charming Tribe	Lightning icon	Blasters fighter	Milk
+145	Komiicon	Komiger	Rank A icon	Charming Tribe	Lightning icon	Blasters fighter	Milk
+146	Bakuicon	Baku	Rank D icon	Charming Tribe	Drain icon	Blasters fighter	Juice
+147	BakulIcon	Bakulia	Rank B icon	Charming Tribe	Drain icon	Blasters fighter	Juice
+148	Whapicon	Whapir	Rank C icon	Charming Tribe	Drain icon	Blasters healer	Juice
+149	DrizeldIcon	Drizzelda	Rank C icon	Charming Tribe	Water icon	Blasters healer	Juice
+150	NespeeIcon	Nekidspeed	Rank C icon	Charming Tribe	Ice icon	Blasters ranger	Curry
+151	Shmoicon	Shmoopie	Rank C icon	Charming Tribe	Restoration icon	Blasters healer	Hamburgers
+152	Pinkicon	Pinkipoo	Rank B icon	Charming Tribe	Restoration icon	Blasters healer	Hamburgers
+153	Pookicon	Pookivil	Rank A icon	Charming Tribe	Drain icon	Blasters healer	Hamburgers
+154	Harbaricon	Harry Barry	Rank B icon	Charming Tribe	Restoration icon	Blasters healer	Meat
+155	Frosticon	Frostina	Rank B icon	Charming Tribe	Ice icon	Blasters fighter	Candy
+156	Blizzicon	Blizzaria	Rank S icon	Charming Tribe	Ice icon	Blasters fighter	Candy
+157	Damoicon	Damona	Rank S icon	Charming Tribe	Ice icon	Blasters fighter	Candy
+158	FauKapIcon	Faux Kappa	Rank A icon	Charming Tribe	Water icon	Blasters fighter	Vegetables
+159	TigapIcon	Tigappa	Rank S icon	Charming Tribe	Water icon	Blasters fighter	Chinese Food
+160	Nyadaicon	Master Nyada	Rank S icon	Charming Tribe	Wind icon	Blasters ranger	Seafood
+161	Wantsicon	Wantston	Rank E icon	Heartful Tribe	Lightning icon	Blasters ranger	Ramen
+162	Grubsnicon	Grubsnitch	Rank D icon	Heartful Tribe	Earth icon	Blasters ranger	Ramen
+163	Wiglicon	Wiglin	Rank E icon	Heartful Tribe	Restoration icon	Blasters healer	Ramen
+164	KelpacIcon	Kelpacabana	Rank B icon	Heartful Tribe	Restoration icon	Blasters healer	Ramen
+165	Steppicon	Steppa	Rank E icon	Heartful Tribe	Restoration icon	Blasters healer	Ramen
+166	Rhythicon	Rhyth	Rank D icon	Heartful Tribe	Restoration icon	Blasters healer	Ramen
+167	Hungricon	Hungramps	Rank E icon	Heartful Tribe	Restoration icon	Blasters healer	Rice Balls
+168	Hungoicon	Hungorge	Rank B icon	Heartful Tribe	Drain icon	Blasters healer	Rice Balls
+169	Graicon	Grainpa	Rank B icon	Heartful Tribe	Restoration icon	Blasters healer	Rice Balls
+170	TonguIcon	Tongus	Rank E icon	Heartful Tribe	Restoration icon	Blasters healer	Vegetables
+171	NurTonIcon	Nurse Tongus	Rank B icon	Heartful Tribe	Restoration icon	Blasters healer	Vegetables
+172	SandIcon	Sandmeh	Rank E icon	Heartful Tribe	Restoration icon	Blasters healer	Oden
+173	MisSanIcon	Mr. Sandmeh	Rank B icon	Heartful Tribe	Restoration icon	Blasters healer	Oden
+174	PallIcon	Pallysol	Rank E icon	Heartful Tribe	Wind icon	Blasters tank	Oden
+175	ScarasIcon	Scarasol	Rank A icon	Heartful Tribe	Earth icon	Blasters tank	Sushi
+176	Lodoicon	Lodo	Rank D icon	Heartful Tribe	Wind icon	Blasters ranger	Milk
+177	SupoorIcon	Supoor Hero	Rank A icon	Heartful Tribe	Wind icon	Blasters ranger	Milk
+178	Chippicon	Chippa	Rank B icon	Heartful Tribe	Water icon	Blasters healer	Milk
+179	GnoIcon	Gnomey	Rank D icon	Heartful Tribe	Restoration icon	Blasters healer	Snacks
+180	HigGnoIcon	High Gnomey	Rank A icon	Heartful Tribe	Restoration icon	Blasters healer	Snacks
+181	Enericon	Enerfly	Rank D icon	Heartful Tribe	Restoration icon	Blasters healer	Juice
+182	Eneicon	Enefly	Rank D icon	Heartful Tribe	Drain icon	Blasters ranger	Juice
+183	Bettericon	Betterfly	Rank A icon	Heartful Tribe	Restoration icon	Blasters healer	Juice
+184	Peppicon	Peppillon	Rank S icon	Heartful Tribe	Restoration icon	Blasters healer	Juice
+185	PredIcon	Predictabull	Rank D icon	Heartful Tribe	Restoration icon	Blasters healer	Sushi
+186	SmashIcon	Smashibull	Rank S icon	Heartful Tribe	Restoration icon	Blasters healer	Sushi
+187	DoChaIcon	Don Chan	Rank B icon	Heartful Tribe	Restoration icon	Blasters healer	Snacks
+188	RayOIcon	Ray O'Light	Rank B icon	Heartful Tribe	Fire icon	Blasters fighter	Sweets
+189	Happieicon	Happierre	Rank B icon	Heartful Tribe	Restoration icon	Blasters healer	Bread
+190	Revericon	Reversa	Rank A icon	Heartful Tribe	Restoration icon	Blasters healer	Bread
+191	Reversicon	Reversette	Rank A icon	Heartful Tribe	Wind icon	Blasters healer	Bread
+192	Olsaicon	Ol' Saint Trick	Rank B icon	Heartful Tribe	Restoration icon	Blasters healer	Curry
+193	Olforicon	Ol' Fortune	Rank B icon	Heartful Tribe	Lightning icon	Blasters healer	Curry
+194	Rollicon	Rollen	Rank B icon	Heartful Tribe	Water icon	Blasters healer	Candy
+195	Dubbicon	Dubbles	Rank A icon	Heartful Tribe	Water icon	Blasters healer	Candy
+196	Papbolicon	Papa Bolt	Rank A icon	Heartful Tribe	Lightning icon	Blasters tank	Sushi
+197	Uncinficon	Uncle Infinite	Rank S icon	Heartful Tribe	Lightning icon	Blasters tank	Sushi
+198	Mamauricon	Mama Aura	Rank A icon	Heartful Tribe	Restoration icon	Blasters healer	Vegetables
+199	Aunheaicon	Auntie Heart	Rank S icon	Heartful Tribe	Restoration icon	Blasters healer	Vegetables
+200	KryrIcon	Kyryn	Rank S icon	Heartful Tribe	Restoration icon	Blasters healer	Chinese Food
+201	UnikIcon	Unikirin	Rank S icon	Heartful Tribe	Restoration icon	Blasters healer	Soba Noodles
+202	Leadonicon	Leadoni	Rank E icon	Shady Tribe	Ice icon	Blasters ranger	Candy
+203	Mynicon	Mynimo	Rank D icon	Shady Tribe	Drain icon	Blasters ranger	Candy
+204	Akeicon	Ake	Rank E icon	Shady Tribe	Earth icon	Blasters ranger	Candy
+205	Payicon	Payn	Rank B icon	Shady Tribe	Earth icon	Blasters fighter	Candy
+206	Agoicon	Agon	Rank B icon	Shady Tribe	Earth icon	Blasters fighter	Candy
+207	WydeaIcon	WydeawakeFS	Rank E icon	Shady Tribe	Lightning icon	Blasters ranger	Hamburgers
+208	AllnyIcon	AllnytaFS	Rank B icon	Shady Tribe	Lightning icon	Blasters ranger	Hamburgers
+209	HerbIcon	HerbiboyBS	Rank E icon	Shady Tribe	Water icon	Blasters ranger	Vegetables
+210	CarnIcon	CarniboyBS	Rank B icon	Shady Tribe	Fire icon	Blasters ranger	Meat
+211	Negaticon	Negatibuzz	Rank E icon	Shady Tribe	Drain icon	Blasters ranger	Juice
+212	Moskicon	Moskevil	Rank B icon	Shady Tribe	Drain icon	Blasters ranger	Juice
+213	Scricon	Scritchy	Rank A icon	Shady Tribe	Lightning icon	Blasters ranger	Juice
+214	Dimmicon	Dimmy	Rank E icon	Shady Tribe	Wind icon	Blasters ranger	Rice Balls
+215	Blanicon	Blandon	Rank B icon	Shady Tribe	Wind icon	Blasters ranger	Rice Balls
+216	Nulicon	Nul	Rank A icon	Shady Tribe	Wind icon	Blasters ranger	Rice Balls
+217	Suspicion	Suspicioni	Rank D icon	Shady Tribe	Water icon	Blasters fighter	Chinese Food
+218	Tantricon	Tantroni	Rank D icon	Shady Tribe	Fire icon	Blasters fighter	Chinese Food
+219	Contraricon	Contrarioni	Rank B icon	Shady Tribe	Lightning icon	Blasters tank	Chinese Food
+220	Hidaicon	Hidabat	Rank D icon	Shady Tribe	Wind icon	Blasters ranger	Meat
+221	Abodicon	Abodabat	Rank A icon	Shady Tribe	Wind icon	Blasters ranger	Meat
+222	Belfricon	Belfree	Rank A icon	Shady Tribe	Wind icon	Blasters tank	Meat
+223	YoiIcon	Yoink	Rank D icon	Shady Tribe	Drain icon	Blasters ranger	Sushi
+224	GimmIcon	Gimme	Rank A icon	Shady Tribe	Drain icon	Blasters ranger	Sushi
+225	KmonIcon	K'mon-K'mon	Rank B icon	Shady Tribe	Wind icon	Blasters fighter	Curry
+226	YoodooIcon	Yoodooit	Rank B icon	Shady Tribe	Drain icon	Blasters ranger	Sushi
+227	CouZapIcon	Count ZapawayFS	Rank B icon	Shady Tribe	Ice icon	Blasters fighter	Hamburgers
+228	Tyraticon	Tyrat	Rank B icon	Shady Tribe	Drain icon	Blasters ranger	Milk
+229	Tenglicon	Tengloom	Rank B icon	Shady Tribe	Wind icon	Blasters ranger	Bread
+230	Nirdicon	Nird	Rank B icon	Shady Tribe	Wind icon	Blasters ranger	Bread
+231	SnobeIcon	Snobetty	Rank B icon	Shady Tribe	Ice icon	Blasters tank	Sushi
+232	Slimamicon	SlimamanderBS	Rank B icon	Shady Tribe	Fire icon	Blasters fighter	Oden
+233	Dracuicon	Dracunyan	Rank B icon	Shady Tribe	Drain icon	Blasters fighter	Chocobars
+234	Negaicon	Negasus	Rank A icon	Shady Tribe	Wind icon	Blasters fighter	Vegetables
+235	Neighficon	Neighfarious	Rank A icon	Shady Tribe	Drain icon	Blasters tank	Vegetables
+236	Timidicon	Timidevil	Rank A icon	Shady Tribe	Fire icon	Blasters fighter	Ramen
+237	Beelzeicon	Beelzebold	Rank S icon	Shady Tribe	Fire icon	Blasters fighter	Ramen
+238	Count cavicon	Count Cavity	Rank S icon	Shady Tribe	Fire icon	Blasters fighter	Ramen
+239	EyesoIcon	Eyesoar	Rank A icon	Shady Tribe	Earth icon	Blasters tank	Meat
+240	EyellIcon	Eyellure	Rank S icon	Shady Tribe	Lightning icon	Blasters tank	Sweets
+241	Greesicon	Greesel	Rank S icon	Shady Tribe	Fire icon	Blasters ranger	Meat
+242	Awevicon	Awevil	Rank S icon	Shady Tribe	Water icon	Blasters ranger	Meat
+243	Wobwokicon	Wobblewok	Rank S icon	Shady Tribe	Earth icon	Blasters tank	Soba Noodles
+244	Coughicon	Coughkoff	Rank E icon	Eerie Tribe	Water icon	Blasters ranger	Bread
+245	Hurchicon	Hurchin	Rank D icon	Eerie Tribe	Ice icon	Blasters ranger	Bread
+246	Droplicon	Droplette	Rank E icon	Eerie Tribe	Water icon	Blasters fighter	Juice
+247	Dricon	Drizzle	Rank B icon	Eerie Tribe	Water icon	Blasters fighter	Juice
+248	Slusicon	Slush	Rank E icon	Eerie Tribe	Ice icon	Blasters tank	Juice
+249	Alhaicon	Alhail	Rank B icon	Eerie Tribe	Ice icon	Blasters tank	Juice
+250	Gushicon	Gush	Rank D icon	Eerie Tribe	Fire icon	Blasters ranger	Juice
+251	Peckpoicon	Peckpocket	Rank E icon	Eerie Tribe	Drain icon	Blasters ranger	Hamburgers
+252	RobbIcon	Robbinyu	Rank B icon	Eerie Tribe	Drain icon	Blasters ranger	Hamburgers
+253	Rockabicon	Rockabelly	Rank D icon	Eerie Tribe	Drain icon	Blasters ranger	Hamburgers
+254	SqueIcon	Squeeky	Rank E icon	Eerie Tribe	Ice icon	Blasters fighter	Curry
+255	RawrIcon	Rawry	Rank B icon	Eerie Tribe	Ice icon	Blasters fighter	Curry
+256	Buhuicon	Buhu	Rank E icon	Eerie Tribe	Wind icon	Blasters fighter	Bread
+257	Flumicon	Flumpy	Rank B icon	Eerie Tribe	Wind icon	Blasters fighter	Bread
+258	Skreicon	Skreek	Rank A icon	Eerie Tribe	Wind icon	Blasters fighter	Bread
+259	Manjicon	Manjimutt	Rank E icon	Eerie Tribe	Fire icon	Blasters ranger	Curry
+260	Multimicon	Multimutt	Rank B icon	Eerie Tribe	Fire icon	Blasters ranger	Curry
+261	Sirbericon	Sir Berus	Rank A icon	Eerie Tribe	Earth icon	Blasters fighter	Curry
+262	FurgIcon	Furgus	Rank E icon	Eerie Tribe	Earth icon	Blasters tank	Rice Balls
+263	FurdIcon	Furdinand	Rank A icon	Eerie Tribe	Earth icon	Blasters tank	Rice Balls
+264	NosiIcon	Nosirs	Rank D icon	Eerie Tribe	Restoration icon	Blasters ranger	Hamburgers
+265	Dismaricon	Dismarelda	Rank D icon	Eerie Tribe	Earth icon	Blasters tank	Bread
+266	Chatlicon	Chatalie	Rank D icon	Eerie Tribe	Lightning icon	Blasters healer	Bread
+267	Nagaicon	Nagatha	Rank B icon	Eerie Tribe	Drain icon	Blasters healer	Bread
+268	PapWinIcon	Papa Windbag	Rank B icon	Eerie Tribe	Lightning icon	Blasters ranger	Soba Noodles
+269	BenTovIcon	Ben Tover	Rank B icon	Eerie Tribe	Wind icon	Blasters ranger	Seafood
+270	Ceeseeicon	Cheeksqueek	Rank B icon	Eerie Tribe	Ice icon	Blasters ranger	Milk
+271	Cttceeicon	Cuttincheez	Rank A icon	Eerie Tribe	Ice icon	Blasters ranger	Milk
+272	ToilIcon	Toiletta	Rank B icon	Eerie Tribe	Drain icon	Blasters fighter	Snacks
+273	FoilIcon	Foiletta	Rank A icon	Eerie Tribe	Drain icon	Blasters fighter	Snacks
+274	Sproicon	Sproink	Rank B icon	Eerie Tribe	Fire icon	Blasters fighter	Chinese Food
+275	Compunicon	Compunzer	Rank A icon	Eerie Tribe	Drain icon	Blasters fighter	Snacks
+276	Lamdicon	Lamedian	Rank A icon	Eerie Tribe	Drain icon	Blasters fighter	Snacks
+277	Grumpicon	Grumples	Rank B icon	Eerie Tribe	Drain icon	Blasters ranger	Milk
+278	Eveforicon	Everfore	Rank S icon	Eerie Tribe	Drain icon	Blasters ranger	Milk
+279	Etericon	Eterna	Rank S icon	Eerie Tribe	Drain icon	Blasters fighter	Milk
+280	Insoicon	Insomni	Rank A icon	Eerie Tribe	Ice icon	Blasters ranger	Candy
+281	Sandicon	Sandi	Rank S icon	Eerie Tribe	Drain icon	Blasters ranger	Candy
+282	AranusIcon	ArachnusBS	Rank S icon	Eerie Tribe	Earth icon	Blasters fighter	Soba Noodles
+283	AracniaIcon	Arachnia	Rank S icon	Eerie Tribe	Earth icon	Blasters ranger	Soba Noodles
+284	CricIcon	Cricky	Rank E icon	Slippery Tribe	Water icon	Blasters fighter	Sushi
+285	Nokoicon YW2	Noko	Rank E icon	Slippery Tribe	Earth icon	Blasters healer	Hamburgers
+286	Blokoicon YW2	Bloominoko	Rank A icon	Slippery Tribe	Earth icon	Blasters healer	Hamburgers
+287	Pannokicon	Pandanoko	Rank A icon	Slippery Tribe	Ice icon	Blasters healer	Hamburgers
+288	SnaggIcon	Snaggly	Rank E icon	Slippery Tribe	Lightning icon	Blasters fighter	Sweets
+289	WhinoIcon	Whinona	Rank A icon	Slippery Tribe	Lightning icon	Blasters fighter	Sweets
+290	Heheeicon	Heheheel	Rank D icon	Slippery Tribe	Restoration icon	Blasters healer	Meat
+291	Croonicon	Croonger	Rank B icon	Slippery Tribe	Drain icon	Blasters healer	Meat
+292	Urnacicon	Urnaconda	Rank B icon	Slippery Tribe	Restoration icon	Blasters healer	Meat
+293	Fishpicon	Fishpicable	Rank D icon	Slippery Tribe	Lightning icon	Blasters ranger	Meat
+294	Rageicon	Rageon	Rank B icon	Slippery Tribe	Lightning icon	Blasters ranger	Meat
+295	Tunaticon	Tunatic	Rank A icon	Slippery Tribe	Fire icon	Blasters ranger	Meat
+296	FlushIcon	Flushback	Rank D icon	Slippery Tribe	Restoration icon	Blasters healer	Soba Noodles
+297	VacmorIcon	Vacuumory	Rank A icon	Slippery Tribe	Restoration icon	Blasters healer	Soba Noodles
+298	IrewIcon	IrewigBS	Rank D icon	Slippery Tribe	Fire icon	Blasters fighter	Hamburgers
+299	FirewIcon	FirewigBS	Rank A icon	Slippery Tribe	Fire icon	Blasters fighter	Hamburgers
+300	Draggicon	Draggie	Rank D icon	Slippery Tribe	Earth icon	Blasters fighter	Chinese Food
+301	Draloricon	Dragon Lord	Rank S icon	Slippery Tribe	Earth icon	Blasters fighter	Chinese Food
+302	Azudraicon	Azure Dragon	Rank S icon	Slippery Tribe	Water icon	Blasters fighter	Chinese Food
+303	MermaIcon	Mermaidyn	Rank D icon	Slippery Tribe	Water icon	Blasters fighter	Sweets
+304	MermadIcon	Mermadonna	Rank S icon	Slippery Tribe	Water icon	Blasters fighter	Sweets
+305	MermotIcon	Mermother	Rank S icon	Slippery Tribe	Water icon	Blasters fighter	Sweets
+306	LadLonIcon	Lady Longnek	Rank B icon	Slippery Tribe	Restoration icon	Blasters ranger	Sweets
+307	Daicon	Daiz	Rank B icon	Slippery Tribe	Drain icon	Blasters fighter	Candy
+308	Couzicon	Confuze	Rank B icon	Slippery Tribe	Drain icon	Blasters fighter	Candy
+309	Chumicon	Chummer	Rank B icon	Slippery Tribe	Water icon	Blasters tank	Vegetables
+310	Shroicon	Shrook	Rank B icon	Slippery Tribe	Water icon	Blasters tank	Vegetables
+311	Spenpicon	Spenp	Rank B icon	Slippery Tribe	Wind icon	Blasters tank	Bread
+312	Almicon	Almi	Rank B icon	Slippery Tribe	Water icon	Blasters tank	Bread
+313	Babblicon	Babblong	Rank B icon	Slippery Tribe	Water icon	Blasters ranger	Candy
+314	Banoicon	Bananose	Rank A icon	Slippery Tribe	Water icon	Blasters ranger	Candy
+315	DraaaIcon	Draaagin	Rank B icon	Slippery Tribe	Ice icon	Blasters fighter	Ramen
+316	Snaggericon	SV SnaggerjagFS	Rank B icon	Slippery Tribe	Water icon	Blasters fighter	Oden
+317	Coperlicon	Copperled	Rank B icon	Slippery Tribe	Fire icon	Blasters ranger	Seafood
+318	Cynakicon	Cynake	Rank B icon	Slippery Tribe	Water icon	Blasters ranger	Seafood
+319	Slithicon	Slitheref	Rank A icon	Slippery Tribe	Lightning icon	Blasters ranger	Seafood
+320	Venocticon	VenoctBS	Rank S icon	Slippery Tribe	Lightning icon	Blasters fighter	Seafood
+321	Shavenicon	Shad. Venoct	Rank S icon	Slippery Tribe	Restoration icon	Blasters healer	Seafood
+322	Shoguicon	Shogunyan	Rank S icon	WibWobBraveIcon	Wind icon	Blasters ranger	Seafood
+323	Shuraicon	Komashura	Rank S icon	Mysterious mini icon	Fire icon	Blasters fighter	Milk
+324	Gilgaricon	Gilgaros	Rank S icon	WibWobToughIcon	Lightning icon	Blasters fighter	Meat
+325	Spoilicon	Spoilerina	Rank S icon	WibWobCharmingIcon	Wind icon	Blasters healer	Sweets
+326	Eldblooicon	Elder Bloom	Rank S icon	WibWobHeartfulIcon	Restoration icon	Blasters healer	Rice Balls
+327	Pooficon	Poofessor	Rank S icon	WibWobShadyIcon	Drain icon	Blasters ranger	Curry
+328	Dandicon	Dandoodle	Rank S icon	WibWobEerieIcon	Restoration icon	Blasters healer	Chinese Food
+329	Slurpicon	Slurpent	Rank S icon	WibWobSlipperyIcon	Drain icon	Blasters tank	Meat
+330	Sapphicon	Sapphinyan	Rank A icon	WibWobCharmingIcon	Water icon	Blasters fighter	Chocobars
+331	Emeicon	Emenyan	Rank A icon	WibWobCharmingIcon	Restoration icon	Blasters healer	Chocobars
+332	Rubicon	Rubinyan	Rank A icon	WibWobCharmingIcon	Fire icon	Blasters fighter	Chocobars
+333	Topaicon	Topanyan	Rank A icon	WibWobCharmingIcon	Lightning icon	Blasters tank	Chocobars
+334	Diaicon	Dianyan	Rank A icon	WibWobCharmingIcon	Ice icon	Blasters fighter	Chocobars
+335	Meloicon	Melonyan	Rank A icon	WibWobCharmingIcon	Ice icon	Blasters fighter	Chocobars
+336	Oraicon	Oranyan	Rank B icon	WibWobCharmingIcon	Lightning icon	Blasters healer	Chocobars
+337	Kiwicon	Kiwinyan	Rank B icon	WibWobCharmingIcon	Earth icon	Blasters tank	Chocobars
+338	Grapeicon	Grapenyan	Rank B icon	WibWobCharmingIcon	Water icon	Blasters fighter	Chocobars
+339	Strawbicon	Strawbnyan	Rank B icon	WibWobCharmingIcon	Fire icon	Blasters fighter	Chocobars
+340	Watermelicon	Watermelnyan	Rank A icon	WibWobCharmingIcon	Wind icon	Blasters fighter	Chocobars
+341	Robokappicon	Robokapp	Rank A icon	WibWobCharmingIcon	Water icon	Blasters fighter	Sushi
+342	Robokomaicon	Robokoma	Rank A icon	WibWobCharmingIcon	Fire icon	Blasters ranger	Milk
+343	Robogricon	Robogramps	Rank B icon	WibWobHeartfulIcon	Restoration icon	Blasters ranger	Rice Balls
+344	Robomicon	Robomutt	Rank B icon	WibWobEerieIcon	Wind icon	Blasters ranger	Curry
+345	Robonicon	Robonoko	Rank B icon	WibWobSlipperyIcon	Earth icon	Blasters ranger	Hamburgers
+346	Robodraicon	Robodraggie	Rank B icon	WibWobSlipperyIcon	Fire icon	Blasters ranger	Chinese Food
+347	Wondericon	Wondernyan	Rank B icon	WibWobCharmingIcon	Drain icon	Blasters ranger	Chocobars
+348	Robonyan ficon	Robonyan FBS	Rank A icon	WibWobToughIcon	Fire icon	Blasters tank	Chocobars
+349	Sailoricon	SailornyanFS	Rank A icon	WibWobCharmingIcon	Restoration icon	Blasters healer	Chocobars
+350	Machonicon	MachonyanPS	Rank A icon	WibWobBraveIcon	Lightning icon	Blasters fighter	Chocobars
+351	Hovericon	Hovernyan	Rank B icon	WibWobBraveIcon	Wind icon	Blasters fighter	Seafood
+352	Darknicon	Darknyan	Rank A icon	WibWobEerieIcon	Wind icon	Blasters ranger	Seafood
+353	Jibakoicon	Jibakoma	Rank A icon	WibWobCharmingIcon	Fire icon	Blasters fighter	Chocobars
+354	Jetnicon	Jetnyan	Rank B icon	WibWobCharmingIcon	Wind icon	Blasters fighter	Chocobars
+355	UnfaIcon	UnfairyPS	Rank S icon	WibWobWickedIcon	Drain icon	Blasters ranger	Snacks
+356	UnkaIcon	UnkaindPS	Rank S icon	WibWobWickedIcon	Water icon	Blasters healer	Seafood
+357	UntIcon	UntidyPS	Rank S icon	WibWobWickedIcon	Earth icon	Blasters tank	Meat
+358	UnpleIcon	UnpleasantPS	Rank S icon	WibWobWickedIcon	Wind icon	Blasters ranger	Oden
+359	UnkeIcon	UnkeenPS	Rank S icon	WibWobWickedIcon	Lightning icon	Blasters fighter	Curry
+360	GrublaIcon	GrublappaPS	Rank B icon	WibWobWickedIcon	Lightning icon	Blasters fighter	Oden
+361	MadmunIcon	MadmunchPS	Rank B icon	WibWobWickedIcon	Earth icon	Blasters tank	Oden
+362	BadsmeIcon	BadsmellaPS	Rank A icon	WibWobWickedIcon	Wind icon	Blasters fighter	Sweets
+363	MadKapIcon	Mad KappaPS	Rank A icon	WibWobWickedIcon	Water icon	Blasters fighter	Chinese Food
+364	ShamaIcon	ShamasolPS	Rank D icon	WibWobWickedIcon	Wind icon	Blasters fighter	Oden
+365	GominIcon	GnominePS	Rank B icon	WibWobWickedIcon	Restoration icon	Blasters healer	Snacks
+366	DeflecIcon	DefectabullPS	Rank B icon	WibWobWickedIcon	Restoration icon	Blasters healer	Sushi
+367	FeargIcon	FeargusPS	Rank D icon	WibWobWickedIcon	Earth icon	Blasters fighter	Rice Balls
+368	ScaremaIcon	ScaremaidenPS	Rank B icon	WibWobWickedIcon	Water icon	Blasters fighter	Sweets
+369	WrongnIcon	WrongnekPS	Rank B icon	WibWobWickedIcon	Restoration icon	Blasters healer	Sweets
+370	GrumpIcon	Grumpus Khan	Rank D icon	WibWobShadyIcon	Wind icon	Blasters fighter	Meat
+371	GroupIcon	Groupus Khan	Rank B icon	WibWobShadyIcon	Wind icon	Blasters fighter	Meat
+372	SlumbIcon	Slumberhog	Rank D icon	WibWobBraveIcon	Fire icon	Blasters tank	Chinese Food
+373	SnortlIcon	Snortlehog	Rank B icon	WibWobBraveIcon	Fire icon	Blasters ranger	Chinese Food
+374	PanjPurIcon	Panja Pupil	Rank D icon	WibWobCharmingIcon	Ice icon	Blasters fighter	Sushi
+375	PanjPrIcon	Panja Pro	Rank B icon	WibWobCharmingIcon	Ice icon	Blasters fighter	Sushi
+376	SameeIcon	Samureel	Rank D icon	WibWobBraveIcon	Water icon	Blasters tank	Seafood
+377	TimKeeIcon	Time Keeler	Rank B icon	WibWobBraveIcon	Water icon	Blasters tank	Seafood
+378	TakidIcon	Takoyakid	Rank D icon	WibWobSlipperyIcon	Fire icon	Blasters fighter	Oden
+379	TakinIcon	Takoyaking	Rank B icon	WibWobSlipperyIcon	Fire icon	Blasters fighter	Oden
+380	DanSanIcon	Danke Sand	Rank D icon	WibWobEerieIcon	Earth icon	Blasters fighter	Oden
+381	NoSanIcon	No Sandkyu	Rank B icon	WibWobEerieIcon	Earth icon	Blasters fighter	Oden
+382	SuodenIcon	Sumodon	Rank D icon	WibWobToughIcon	Restoration icon	Blasters tank	Soba Noodles
+383	YokodenIcon	Yokozudon	Rank B icon	WibWobToughIcon	Restoration icon	Blasters tank	Soba Noodles
+384	WhaestIcon	Whateverest	Rank D icon	WibWobToughIcon	Fire icon	Blasters tank	Meat
+385	WhauptIcon	Whatuption	Rank B icon	WibWobToughIcon	Fire icon	Blasters tank	Meat
+386	HapcanIcon	Happycane	Rank D icon	WibWobHeartfulIcon	Restoration icon	Blasters healer	Candy
+387	StacanIcon	Starrycane	Rank B icon	WibWobHeartfulIcon	Restoration icon	Blasters healer	Candy

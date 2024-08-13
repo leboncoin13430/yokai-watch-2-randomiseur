@@ -1,0 +1,265 @@
+[
+    {
+        "Name": "Whatta Find, Shopper's Row",
+        "Buy Price": "$18.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Cheap Bracelet (Japanese: 安っぽいうでわ Yasuppoi Udewa)\tCheap Bracelet\tIt's not the classiest accessory, but it does the job.\tSTR +10 DEF -05\tJungle Hunter, Uptown Springdale",
+        "Buy Price": "$1.80",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$18.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Jungle Hunter, Uptown Springdale",
+        "Buy Price": "$1.80",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$65.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Whatta Find, Shopper's Row",
+        "Buy Price": "$6.50",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$65.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Whatta Find, Shopper's Row",
+        "Buy Price": "$6.50",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$110.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Grand Bracelet (Japanese: 豪気なうでわ Gōki na Udewa)\tGrand Bracelet\tAn elegant, strength-enhancing item that helps with heavy lifting.\tSTR +25 DEF -12\tJungle Hunter, Uptown Springdale",
+        "Buy Price": "$11.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$110.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Location": "Memory Store, Uptown Springdale",
+        "Name": "Sun Bracelet (Japanese: 太陽のうでわ Taiyō no Udewa)\tSun Bracelet\tA heavy gold bracelet said to contain the power of the sun.",
+        "Buy Price": "$11.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Comet Bracelet (Japanese: 彗星のうでわ Suisei no Udewa)\tComet Bracelet\tUnleashes the destructive force of a comet flying through space.\tSTR +35 DEF -15\tMemory Store, Uptown Springdale",
+        "Buy Price": "$280.00\t$28.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Jungle Hunter, Uptown Springdale",
+        "Buy Price": "$280.00\t$28.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$18.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Ugly Ring (Japanese: ダサいゆびわ Dasai Yubiwa)\tUgly Ring\tIt's not pretty, but it's pretty effective.\tSPR +10 SPD -05\tJungle Hunter, Uptown Springdale",
+        "Buy Price": "$1.80",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$18.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Whatta Find, Shopper's Row",
+        "Buy Price": "$1.80",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$65.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Rainbow Ring (Japanese: レインボーリング Reinbō Ringu)\tRainbow Ring\tA beautiful ring that sparkles with all the colors of the rainbow.\tSPR +18 SPD -08\tJungle Hunter, Uptown Springdale",
+        "Buy Price": "$6.50",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$65.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "No Time For Fishin'! quest reward (choice of two)",
+        "Buy Price": "$6.50",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$110.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "No Time For Fishin'! quest reward (choice of two)",
+        "Buy Price": "$11.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$110.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Find Mermaidyn! quest reward (choice of two)",
+        "Buy Price": "$11.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Ring of Fate (Japanese: 運命のゆびわ Uninochi no Yubiwa)\tRing of Fate\tImbued with the power to alter one's destiny.\tSPR +35 SPD -15\tMemory Store, Uptown Springdale",
+        "Buy Price": "$280.00\t$28.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Aged Charm (Japanese: 古びたおまもり Furubita Omamori)\tAged Charm\tAn old charm whose power has atrophied over the years.\tDEF +10 SPR -05\tJungle Hunter, Uptown Springdale",
+        "Buy Price": "$280.00\t$28.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$18.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Old Charm (Japanese: ボロボロなおまもり Boroboro na Omamori, lit. \"Tattered Charm\")\tOld Charm\tIt's seen better days, but it can still offer a little power.\tDEF +10 STR -05\tJungle Hunter, Uptown Springdale",
+        "Buy Price": "$1.80",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$18.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Runic Charm (Japanese: ルーンのおまもり Rūn no Omamori, \"Rune Amulet/Charm\")\tRunic Charm\tA charm with a mysterious pattern upon it.\tDEF +18 SPR -08\tJungle Hunter, Uptown Springdale",
+        "Buy Price": "$1.80",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$65.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Protective Charm (Japanese: 加護のおまもり Kago no Omamori, lit. \"Blessing/Divine Protection Charm\")\tProtective Charm\tOffers divine protection to the wearer.\tDEF +18 STR -08\tJungle Hunter, Uptown Springdale",
+        "Buy Price": "$6.50",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$65.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Secrets of Soulcery quest reward (choice of two)",
+        "Buy Price": "$6.50",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$110.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Secrets of Soulcery quest reward (choice of two)",
+        "Buy Price": "$11.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$110.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "The Shrine's Part quest reward (choice of two)",
+        "Buy Price": "$11.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "The Shrine's Part quest reward (choice of two)",
+        "Buy Price": "$280.00\t$28.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Whatta Find, Shopper's Row",
+        "Buy Price": "$280.00\t$28.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$18.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Whatta Find, Shopper's Row",
+        "Buy Price": "$1.80",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$18.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Shiny Badge (Japanese: ぴかぴかバッジ Pikapika Bajji)\tShiny Badge\tA cool badge that shines bright. Kids love this one!\tSPD +15 STR -08\tJungle Hunter, Uptown Springdale",
+        "Buy Price": "$1.80",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$65.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Whatta Find, Shopper's Row",
+        "Buy Price": "$6.50",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$65.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "True Hide-and-Seek quest reward (choice of two)",
+        "Buy Price": "$6.50",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$110.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Whatta Find, Shopper's Row",
+        "Buy Price": "$11.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Buy Price": "$110.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Whatta Find, Shopper's Row",
+        "Buy Price": "$11.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Retrace Dad's Steps quest reward (choice of two)",
+        "Buy Price": "$280.00\t$28.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Cheery Coat (Japanese: ハッピーはっぴ Happī happi, \"Happy Happi\")\tCheery Coat\tThis'll make you wanna dance! For Wiglin, Steppa, and Rhyth only.\tSPD +50\tTrying Tangle Tango quest rewardPS",
+        "Buy Price": "$280.00\t$28.00",
+        "Sell Price": "N/A"
+    },
+    {
+        "Name": "Lt.'s Medal (Japanese: 少将の勲章 Shōshō no Kunshō)\t\tUnlocked by reaching the equivalent level in battle.",
+        "Buy Price": "$18.00",
+        "Sell Price": "N/A"
+    }
+]
